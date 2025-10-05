@@ -1,13 +1,13 @@
 [
   {
-    "title": "GIM Tracker v0.0.1",
+    "title": "GIM Tracker v0.0.2",
     "description": "Welcome to the official alpha release of GIM Tracker. Track your ironman progress, set goals, and collaborate with your team.",
     "date": "2025-10-05",
     "type": "announcement"
   },
   {
-    "title": "RuneLite Integration Available",
-    "description": "Connect RuneLite webhooks to automatically log valuable drops. Configure webhook URL: http://localhost:5000/webhook",
+    "title": "Online User Fix",
+    "description": "Fixed a bug where you could not see users online.",
     "date": "2025-10-05",
     "type": "feature"
   },
