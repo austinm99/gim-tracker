@@ -1,0 +1,20 @@
+[
+  {
+    "title": "GIM Tracker v1.0 Released!",
+    "description": "Welcome to the official release of GIM Tracker. Track your ironman progress, set goals, and collaborate with your team.",
+    "date": "2025-10-05",
+    "type": "announcement"
+  },
+  {
+    "title": "RuneLite Integration Available",
+    "description": "Connect RuneLite webhooks to automatically log valuable drops. Configure webhook URL: http://localhost:5000/webhook",
+    "date": "2025-10-05",
+    "type": "feature"
+  },
+  {
+    "title": "How to Get Started",
+    "description": "Create or join a team from the Team tab. Set personal and team goals in the Goals tab. Track your gear progression in the Gear tab.",
+    "date": "2025-10-05",
+    "type": "announcement"
+  }
+]
